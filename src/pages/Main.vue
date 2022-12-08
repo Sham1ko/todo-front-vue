@@ -1,13 +1,11 @@
 <template>
-  <div>Hello world dsd</div>
+  <div>Hello! This is my Todo App</div>
 </template>
 
 <script>
 export default {
-    name: 'Main'
-}
+  name: "Main",
+};
 </script>
 
-<style>
-
-</style>
+<style></style>
